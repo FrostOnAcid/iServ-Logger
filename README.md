@@ -14,5 +14,5 @@ I wont update the Element IDs, if they ever change (what i doubt, since the whol
 6. Get the **DIRECT** URL to join (like this: *.../videoconference/PCZsfhgJQ5uFvNXRBos3Wj*)
 7. If you want to send a message once the automation joined the conference, you can use the last TextBox
 
-After youve done, simply press on start and youre able to leave your pc now!
+After you have done, simply press on start and youre able to leave your pc now!
 

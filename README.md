@@ -16,3 +16,6 @@ I wont update the Element IDs, if they ever change (what i doubt, since the whol
 
 After you have done, simply press on start and youre able to leave your pc now!
 
+# **IMPORTANT**
+You have to install Chrome + the certain chromedriver.exe before using this! 
+

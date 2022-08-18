@@ -11,7 +11,7 @@ I wont update the Element IDs, if they ever change (what i doubt, since the whol
 3. Enter your iServ Credentials (Remember me)
 4. Enter School URL (like this: https://evb-sh.eu/iserv)
 5. Set the Conference Start and end
-6. Get the **DIRECT** URL to join (like this: *.../videoconference/PCZsfhgJQ5uFvNXRBos3Wj*)
+6. Get the **DIRECT** URL to join (like this: *.../videoconference/PCZsfhgJQ7uFvNXRBos3Wi*)
 7. If you want to send a message once the automation joined the conference, you can use the last TextBox
 
 After you have done, simply press on start and youre able to leave your pc now!

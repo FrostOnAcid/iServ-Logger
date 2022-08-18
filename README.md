@@ -18,4 +18,4 @@ After you have done, simply press on start and youre able to leave your pc now!
 
 # **IMPORTANT**
 You have to install Chrome + the certain chromedriver.exe before using this! 
-
+Download Chromium Webdriver from <https://chromedriver.chromium.org/> and select your corresponding version.

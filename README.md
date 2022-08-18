@@ -7,7 +7,7 @@ I wont update the Element IDs, if they ever change (what i doubt, since the whol
 
 # How to use
 1. Clone the Repository / Get the Release
-2. Build on Debug / Release
+2. Build on Debug
 3. Enter your iServ Credentials (Remember me)
 4. Enter School URL (like this: https://evb-sh.eu/iserv)
 5. Set the Conference Start and end
